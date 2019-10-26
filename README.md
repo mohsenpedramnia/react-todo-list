@@ -1,3 +1,5 @@
+to view click [show preview](https://my-react-todos.netlify.com).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
